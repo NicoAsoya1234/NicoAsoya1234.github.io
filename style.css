@@ -1,0 +1,101 @@
+body {
+    
+    background-image: url("img/Ola_de_colores.jpeg");
+}
+
+.foto_perfil {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin: 25px auto;
+}
+
+.descri_nombre {
+    font-size: 12px;
+}
+
+.card-text {
+    font-size: 19px;
+}
+
+.descri_card {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.card {
+    height: 35rem;
+    box-shadow: 0px 0px 15px 0px white;
+    opacity: 90%;
+}
+
+#redes-sociales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 100px;
+    margin: -25px auto;
+}
+
+.line {
+    text-align: center;
+    color: blue;
+}
+
+#redes-sociales img {
+    height: 40px;
+    width: 40px;
+    margin: 0 10px;
+
+}
+
+.accordion-item {
+    font-family: cursive;
+    background-color: aliceblue;
+}
+
+.accordion-body,
+p {
+    font-size: 14px;
+
+    
+}
+
+.text_card2_h1 {
+    color: white;
+    margin-top: -34.1rem;
+}
+
+.text_card2_p {
+
+    color: white;
+}
+
+.accordion {
+    margin-top: 5rem ;
+    width: 45.5rem;
+}
+
+.fondo_blur {
+    margin-left: -12px;
+    height: 35rem;
+    width: 47rem;
+    border-radius: 1%;
+    box-shadow: 0px 0px 15px 0px white;
+    opacity: 20%;
+    display: flex;
+}
+
+.fondo_sc {
+    font-family: Georgia, serif;
+    height: 35rem;
+    width: 47rem;
+    border-radius: 1%;
+    box-shadow: 0px 0px 15px 0px white;
+    background: rgb(154, 47, 67);
+     background: linear-gradient(90deg, rgba(154, 47, 67, 1) 0%, rgba(9, 9, 121, 1) 49%, rgba(0, 212, 255, 1) 100%);
+
+}
